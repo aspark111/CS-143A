@@ -1,6 +1,6 @@
 # CS-143A
 
-//UCI CS 143A Schedulers Project for Venkatasubramania's class
+//UCI CS 143A Schedulers Project 
 //written in Java
 
 //All the code that I needed to write for this project were the four files named after the different scheduling algorithms
