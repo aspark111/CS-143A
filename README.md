@@ -4,4 +4,4 @@
 
 //All the code that you needed to write were the four files named after the different scheduling algorithms
 //FCFS, SJF, SRTF, RoundRobin
-//Found in folder: student/src/jimweller
+//Found in folder: student/scheduler/src/com/jimweller/cpuscheduler
