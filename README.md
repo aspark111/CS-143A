@@ -3,6 +3,8 @@
 //UCI CS 143A Schedulers Project for Venkatasubramania's class
 //written in Java
 
-//All the code that you needed to write were the four files named after the different scheduling algorithms
+//All the code that I needed to write for this project were the four files named after the different scheduling algorithms
 //FCFS, SJF, Priority, RoundRobin
-//Found in folder: student/scheduler/src/com/jimweller/cpuscheduler
+
+//I encourage prospecting students to PLEASE try to do these on your own
+//A cheating programmer is a failing programmer
